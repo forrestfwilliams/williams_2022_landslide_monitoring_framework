@@ -1,0 +1,1 @@
+docker run -v /Users/forrest/Documents/work/data/mnw_results/bird_landslide:/home/micromamba/work -p 2002:8888 forrestwilliams/gis:1.02
