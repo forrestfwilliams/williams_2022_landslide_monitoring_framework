@@ -1,1 +1,1 @@
-docker run -v /Users/forrest/Documents/work/data/mnw_results/bird_landslide:/home/micromamba/work -p 2002:8888 forrestwilliams/gis:1.02
+docker run --rm --memory="8gb" -v "/Users/forrest/OneDrive - Massey University/work/writing/paper_2_methodology:/home/micromamba" -p 2002:8888 forrestwilliams/gis:1.03
